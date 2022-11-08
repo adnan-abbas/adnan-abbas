@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity XR development and WebXR frameworks.**
 
-- 📝 I regularly write articles on [https://adnan-abbas5212.medium.com/](https://adnan-abbas5212.medium.com/)
+- 📝 I regularly write articles on [https://www.educative.io/profile/view/4696947477184512)
 
 - 📫 How to reach me **adnan.abbas@educative.io**
 
