@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adnan.abbas@educative.io**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tLBNEQAh3IFWQsbP81VKAv48LabXocal/view?usp=sharing](https://drive.google.com/file/d/1tLBNEQAh3IFWQsbP81VKAv48LabXocal/view?usp=sharing)
+- 📄 Know about my experiences [Adnan Abbas | CV](https://drive.google.com/file/d/1tLBNEQAh3IFWQsbP81VKAv48LabXocal/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
