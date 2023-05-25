@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on: [Educative Answers](https://www.educative.io/profile/view/4696947477184512)
 
-- 📫 How to reach me: **adnan.abbas@educative.io**
+- 📫 How to reach me: **adnan.abbas6629@gmail.com**
 
 - 📄 Know about my experiences: [Adnan Abbas | CV](https://drive.google.com/file/d/1tLBNEQAh3IFWQsbP81VKAv48LabXocal/view?usp=sharing)
 
