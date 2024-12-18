@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">Passionate about Web 3.0 and XR experiences.</h3>
 
-- 🔭 I’m currently working on [XR experiences on the web through A-Frame, ThreeJS, and BabylonJS.](https://github.com/adnan-abbas/space-jam-a-new-legacy-babylonjs)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Unity XR development and WebXR frameworks.**
+- 🌱 I’m currently learning 
 
-- 📝 I regularly write articles on: [Educative Answers](https://www.educative.io/profile/view/4696947477184512)
+- 📝 I wrote articles on: [Educative Answers](https://www.educative.io/profile/view/4696947477184512)
 
 - 📫 How to reach me: **adnan.abbas6629@gmail.com**
 
